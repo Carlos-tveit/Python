@@ -1,2 +1,2 @@
 # Snake
-Easy Python game
+My first repo
