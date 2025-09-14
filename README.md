@@ -1,2 +1,2 @@
-# Test
-Test for learning GitHub
+# Snake
+Easy Python game
